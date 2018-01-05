@@ -1,14 +1,9 @@
 # SpotifyAPI-SPA (Node-with-angular)
 
---> I have created a Single Page Application (SPA) that allows a user to search for an artist and display album details using the Spotify API.
+I have created a Single Page Application (SPA) that allows a user to search for an artist and display album details using the Spotify API.
 
 --> AngularJS as your front-end and Node.js as your back-end. All API calls has routed through the Node.js application. the front-end has not directly connect to any external APIs.
 
-Spotify API
-
-https://developer.spotify.com/web-api/endpoint-reference/
-
-Searching
 
 Display a search box. Upon entering a search query, the application should query the Spotify API.
 
